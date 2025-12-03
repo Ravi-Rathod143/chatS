@@ -37,7 +37,7 @@ chat-app-complete/
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Project
-git clone <your-github-repo-url>
+git clone https://github.com/Ravi-Rathod143/chatS.git
 cd chat-app-complete
 
 2️⃣ Backend Setup
